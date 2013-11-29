@@ -1,3 +1,6 @@
+;Originally developed by prj and the community of NefMoto
+;Edited to work for Volvo BINs by guitar24t
+
 If WinExists("[TITLE:IDA; CLASS:QWidget]") Then
    WinActivate("[TITLE:IDA; CLASS:QWidget]")
 Else
