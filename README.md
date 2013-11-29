@@ -2,7 +2,7 @@ VolvoDisassemblyHelper
 ======================
 
 A small AutoIt script to help with disassembling Volvo ME7 BIN files.
-Both the script file and an executable are included. Use the executable if you do not have or do not want to download and install the AutoIt toolkit.
+Both the script file and an executable are included. Use the executable if you do not have or do not wish to download and install the AutoIt toolkit.
 
 Usage Instructions:
 
